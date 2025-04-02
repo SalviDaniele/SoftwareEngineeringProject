@@ -1,0 +1,1527 @@
+{
+  "ResourceCard": [
+    {
+      "id": 1,
+      "fCorner1": "FUNGI",
+      "fCorner2": "EMPTY",
+      "fCorner3": "FUNGI",
+      "fCorner4": "NOCORNER",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 0,
+      "imageFront": "carte_fronte/001.png",
+      "imageBack": "carte_retro/001.png"
+    },
+    {
+      "id": 2,
+      "fCorner1": "FUNGI",
+      "fCorner2": "FUNGI",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "EMPTY",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 0,
+      "imageFront": "carte_fronte/002.png",
+      "imageBack": "carte_retro/002.png"
+    },
+    {
+      "id": 3,
+      "fCorner1": "EMPTY",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "FUNGI",
+      "fCorner4": "FUNGI",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 0,
+      "imageFront": "carte_fronte/003.png",
+      "imageBack": "carte_retro/003.png"
+    },
+    {
+      "id": 4,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "FUNGI",
+      "fCorner3": "EMPTY",
+      "fCorner4": "FUNGI",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 0,
+      "imageFront": "carte_fronte/004.png",
+      "imageBack": "carte_retro/004.png"
+    },
+    {
+      "id": 5,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "QUILL",
+      "fCorner3": "PLANT",
+      "fCorner4": "FUNGI",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 0,
+      "imageFront": "carte_fronte/005.png",
+      "imageBack": "carte_retro/005.png"
+    },
+    {
+      "id": 6,
+      "fCorner1": "INKWELL",
+      "fCorner2": "FUNGI",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "ANIMAL",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 0,
+      "imageFront": "carte_fronte/006.png",
+      "imageBack": "carte_retro/006.png"
+    },
+    {
+      "id": 7,
+      "fCorner1": "FUNGI",
+      "fCorner2": "INSECT",
+      "fCorner3": "MANUSCRIPT",
+      "fCorner4": "EMPTY",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 0,
+      "imageFront": "carte_fronte/007.png",
+      "imageBack": "carte_retro/007.png"
+    },
+    {
+      "id": 8,
+      "fCorner1": "EMPTY",
+      "fCorner2": "FUNGI",
+      "fCorner3": "EMPTY",
+      "fCorner4": "NOCORNER",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 1,
+      "imageFront": "carte_fronte/008.png",
+      "imageBack": "carte_retro/008.png"
+    },
+    {
+      "id": 9,
+      "fCorner1": "FUNGI",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "EMPTY",
+      "fCorner4": "EMPTY",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 1,
+      "imageFront": "carte_fronte/009.png",
+      "imageBack": "carte_retro/009.png"
+    },
+    {
+      "id": 10,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "EMPTY",
+      "fCorner3": "FUNGI",
+      "fCorner4": "EMPTY",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 1,
+      "imageFront": "carte_fronte/010.png",
+      "imageBack": "carte_retro/010.png"
+    },
+    {
+      "id": 11,
+      "fCorner1": "PLANT",
+      "fCorner2": "EMPTY",
+      "fCorner3": "PLANT",
+      "fCorner4": "NOCORNER",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 0,
+      "imageFront": "carte_fronte/011.png",
+      "imageBack": "carte_retro/011.png"
+    },
+    {
+      "id": 12,
+      "fCorner1": "PLANT",
+      "fCorner2": "PLANT",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "EMPTY",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 0,
+      "imageFront": "carte_fronte/012.png",
+      "imageBack": "carte_retro/012.png"
+
+    },
+    {
+      "id": 13,
+      "fCorner1": "EMPTY",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "PLANT",
+      "fCorner4": "PLANT",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 0,
+      "imageFront": "carte_fronte/013.png",
+      "imageBack": "carte_retro/013.png"
+
+    },
+    {
+      "id": 14,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "PLANT",
+      "fCorner3": "EMPTY",
+      "fCorner4": "PLANT",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 0,
+      "imageFront": "carte_fronte/014.png",
+      "imageBack": "carte_retro/014.png"
+
+    },
+    {
+      "id": 15,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "INSECT",
+      "fCorner3": "QUILL",
+      "fCorner4": "PLANT",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 0,
+      "imageFront": "carte_fronte/015.png",
+      "imageBack": "carte_retro/015.png"
+
+    },
+    {
+      "id": 16,
+      "fCorner1": "FUNGI",
+      "fCorner2": "PLANT",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "INKWELL",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 0,
+      "imageFront": "carte_fronte/016.png",
+      "imageBack": "carte_retro/016.png"
+
+    },
+    {
+      "id": 17,
+      "fCorner1": "MANUSCRIPT",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "PLANT",
+      "fCorner4": "ANIMAL",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 0,
+      "imageFront": "carte_fronte/017.png",
+      "imageBack": "carte_retro/017.png"
+    },
+    {
+      "id": 18,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "PLANT",
+      "fCorner4": "NOCORNER",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 1,
+      "imageFront": "carte_fronte/018.png",
+      "imageBack": "carte_retro/018.png"
+    },
+    {
+      "id": 19,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "PLANT",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 1,
+      "imageFront": "carte_fronte/019.png",
+      "imageBack": "carte_retro/019.png"
+    },
+    {
+      "id": 20,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "PLANT",
+      "fCorner3": "EMPTY",
+      "fCorner4": "EMPTY",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 1,
+      "imageFront": "carte_fronte/020.png",
+      "imageBack": "carte_retro/020.png"
+    },
+    {
+      "id": 21,
+      "fCorner1": "ANIMAL",
+      "fCorner2": "ANIMAL",
+      "fCorner3": "EMPTY",
+      "fCorner4": "NOCORNER",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 0,
+      "imageFront": "carte_fronte/021.png",
+      "imageBack": "carte_retro/021.png"
+    },
+    {
+      "id": 22,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "EMPTY",
+      "fCorner3": "ANIMAL",
+      "fCorner4": "ANIMAL",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 0,
+      "imageFront": "carte_fronte/022.png",
+      "imageBack": "carte_retro/022.png"
+    },
+    {
+      "id": 23,
+      "fCorner1": "ANIMAL",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "ANIMAL",
+      "fCorner4": "EMPTY",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 0,
+      "imageFront": "carte_fronte/023.png",
+      "imageBack": "carte_retro/023.png"
+
+    },
+    {
+      "id": 24,
+      "fCorner1": "EMPTY",
+      "fCorner2": "ANIMAL",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "ANIMAL",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 0,
+      "imageFront": "carte_fronte/024.png",
+      "imageBack": "carte_retro/024.png"
+
+    },
+    {
+      "id": 25,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "INSECT",
+      "fCorner3": "INKWELL",
+      "fCorner4": "ANIMAL",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 0,
+      "imageFront": "carte_fronte/025.png",
+      "imageBack": "carte_retro/025.png"
+    },
+    {
+      "id": 26,
+
+      "fCorner1": "PLANT",
+      "fCorner2": "ANIMAL",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "MANUSCRIPT",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 0,
+      "imageFront": "carte_fronte/026.png",
+      "imageBack": "carte_retro/026.png"
+    },
+    {
+      "id": 27,
+
+      "fCorner1": "QUILL",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "ANIMAL",
+      "fCorner4": "FUNGI",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 0,
+      "imageFront": "carte_fronte/027.png",
+      "imageBack": "carte_retro/027.png"
+    },
+    {
+      "id": 28,
+
+      "fCorner1": "NOCORNER",
+      "fCorner2": "EMPTY",
+      "fCorner3": "ANIMAL",
+      "fCorner4": "EMPTY",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 1,
+      "imageFront": "carte_fronte/028.png",
+      "imageBack": "carte_retro/028.png"
+    },
+    {
+      "id": 29,
+
+      "fCorner1": "EMPTY",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "EMPTY",
+      "fCorner4": "ANIMAL",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 1,
+      "imageFront": "carte_fronte/029.png",
+      "imageBack": "carte_retro/029.png"
+    },
+    {
+      "id": 30,
+
+      "fCorner1": "EMPTY",
+      "fCorner2": "ANIMAL",
+      "fCorner3": "EMPTY",
+      "fCorner4": "NOCORNER",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 1,
+      "imageFront": "carte_fronte/030.png",
+      "imageBack": "carte_retro/030.png"
+    },
+    {
+      "id": 31,
+
+      "fCorner1": "INSECT",
+      "fCorner2": "INSECT",
+      "fCorner3": "EMPTY",
+      "fCorner4": "NOCORNER",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 0,
+      "imageFront": "carte_fronte/031.png",
+      "imageBack": "carte_retro/031.png"
+    },
+    {
+      "id": 32,
+
+      "fCorner1": "NOCORNER",
+      "fCorner2": "EMPTY",
+      "fCorner3": "INSECT",
+      "fCorner4": "INSECT",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 0,
+      "imageFront": "carte_fronte/032.png",
+      "imageBack": "carte_retro/032.png"
+    },
+    {
+      "id": 33,
+      "fCorner1": "INSECT",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "INSECT",
+      "fCorner4": "EMPTY",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 0,
+      "imageFront": "carte_fronte/033.png",
+      "imageBack": "carte_retro/033.png"
+    },
+    {
+      "id": 34,
+
+      "fCorner1": "EMPTY",
+      "fCorner2": "INSECT",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "INSECT",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 0,
+      "imageFront": "carte_fronte/034.png",
+      "imageBack": "carte_retro/034.png"
+    },
+    {
+      "id": 35,
+
+      "fCorner1": "NOCORNER",
+      "fCorner2": "QUILL",
+      "fCorner3": "ANIMAL",
+      "fCorner4": "INSECT",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 0,
+      "imageFront": "carte_fronte/035.png",
+      "imageBack": "carte_retro/035.png"
+    },
+    {
+      "id": 36,
+
+      "fCorner1": "MANUSCRIPT",
+      "fCorner2": "INSECT",
+      "fCorner3": "EMPTY",
+      "fCorner4": "FUNGI",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 0,
+      "imageFront": "carte_fronte/036.png",
+      "imageBack": "carte_retro/036.png"
+    },
+    {
+      "id": 37,
+
+      "fCorner1": "INSECT",
+      "fCorner2": "PLANT",
+      "fCorner3": "INKWELL",
+      "fCorner4": "NOCORNER",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 0,
+      "imageFront": "carte_fronte/037.png",
+      "imageBack": "carte_retro/037.png"
+    },
+    {
+      "id": 38,
+
+      "fCorner1": "INSECT",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "EMPTY",
+      "fCorner4": "EMPTY",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 1,
+      "imageFront": "carte_fronte/038.png",
+      "imageBack": "carte_retro/038.png"
+    },
+    {
+      "id": 39,
+
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "INSECT",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 1,
+      "imageFront": "carte_fronte/039.png",
+      "imageBack": "carte_retro/039.png"
+    },
+    {
+      "id": 40,
+
+      "fCorner1": "NOCORNER",
+      "fCorner2": "INSECT",
+      "fCorner3": "EMPTY",
+      "fCorner4": "EMPTY",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 1,
+      "imageFront": "carte_fronte/040.png",
+      "imageBack": "carte_retro/040.png"
+    }
+  ],
+
+
+
+  "GoldCard": [
+    {
+      "id" : 41,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "QUILL",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 1,
+      "coveredCorners": false,
+      "pointSymbol": "QUILL",
+      "requirements" : [
+        {
+          "FUNGI" : 2,
+          "ANIMAL": 1
+        }
+      ],
+      "imageFront": "carte_fronte/041.png",
+      "imageBack": "carte_retro/041.png"
+    },
+    {
+      "id" : 42,
+      "fCorner1": "EMPTY",
+      "fCorner2": "INKWELL",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "EMPTY",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 1,
+      "coveredCorners": false,
+      "pointSymbol": "INKWELL",
+      "requirements" : [
+        {
+          "FUNGI" : 2,
+          "PLANT": 1
+        }
+      ],
+      "imageFront": "carte_fronte/042.png",
+      "imageBack": "carte_retro/042.png"
+    },
+    {
+      "id" : 43,
+      "fCorner1": "MANUSCRIPT",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "NOCORNER",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 1,
+      "coveredCorners": false,
+      "pointSymbol": "MANUSCRIPT",
+      "requirements" : [
+        {
+          "FUNGI" : 2,
+          "INSECT" : 1
+        }
+      ],
+      "imageFront": "carte_fronte/043.png",
+      "imageBack": "carte_retro/043.png"
+    },
+    {
+      "id" : 44,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "EMPTY",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 2,
+      "coveredCorners": true,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "FUNGI" : 3,
+          "ANIMAL": 1
+        }
+      ],
+      "imageFront": "carte_fronte/044.png",
+      "imageBack": "carte_retro/044.png"
+    },
+    {
+      "id" : 45,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "NOCORNER",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 2,
+      "coveredCorners": true,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "FUNGI" : 3,
+          "PLANT": 1
+        }
+      ],
+      "imageFront": "carte_fronte/045.png",
+      "imageBack": "carte_retro/045.png"
+    },
+    {
+      "id" : 46,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "NOCORNER",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 2,
+      "coveredCorners": true,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "FUNGI" : 3,
+          "INSECT": 1
+        }
+      ],
+      "imageFront": "carte_fronte/046.png",
+      "imageBack": "carte_retro/046.png"
+    },
+    {
+      "id" : 47,
+      "fCorner1": "EMPTY",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "INKWELL",
+      "fCorner4": "NOCORNER",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 3,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "FUNGI" : 3
+        }
+      ],
+      "imageFront": "carte_fronte/047.png",
+      "imageBack": "carte_retro/047.png"
+    },
+    {
+      "id" : 48,
+      "fCorner1": "QUILL",
+      "fCorner2": "EMPTY",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "NOCORNER",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 3,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "FUNGI" : 3
+        }
+      ],
+      "imageFront": "carte_fronte/048.png",
+      "imageBack": "carte_retro/048.png"
+    },
+    {
+      "id" : 49,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "MANUSCRIPT",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "EMPTY",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 3,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "FUNGI" : 3
+        }
+      ],
+      "imageFront": "carte_fronte/049.png",
+      "imageBack": "carte_retro/049.png"
+    },
+    {
+      "id" : 50,
+      "fCorner1": "EMPTY",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "EMPTY",
+      "fCorner4": "NOCORNER",
+      "color": "RED",
+      "centralSymbols": ["FUNGI"],
+      "points": 5,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "FUNGI" : 5
+        }
+      ],
+      "imageFront": "carte_fronte/050.png",
+      "imageBack": "carte_retro/050.png"
+    },
+    {
+      "id" : 51,
+      "fCorner1": "QUILL",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "NOCORNER",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 1,
+      "coveredCorners": false,
+      "pointSymbol": "QUILL",
+      "requirements" : [
+        {
+          "PLANT" : 2,
+          "INSECT": 1
+        }
+      ],
+      "imageFront": "carte_fronte/051.png",
+      "imageBack": "carte_retro/051.png"
+    },
+    {
+      "id" : 52,
+      "fCorner1": "EMPTY",
+      "fCorner2": "MANUSCRIPT",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "EMPTY",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 1,
+      "coveredCorners": false,
+      "pointSymbol": "MANUSCRIPT",
+      "requirements" : [
+        {
+          "PLANT" : 2,
+          "FUNGI": 1
+        }
+      ],
+      "imageFront": "carte_fronte/052.png",
+      "imageBack": "carte_retro/052.png"
+    },
+    {
+      "id" : 53,
+      "fCorner1": "EMPTY",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "QUILL",
+      "fCorner4": "EMPTY",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 1,
+      "coveredCorners": false,
+      "pointSymbol": "INKWELL",
+      "requirements" : [
+        {
+          "PLANT" : 2,
+          "ANIMAL": 1
+        }
+      ],
+      "imageFront": "carte_fronte/053.png",
+      "imageBack": "carte_retro/053.png"
+    },
+    {
+      "id" : 54,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "EMPTY",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 2,
+      "coveredCorners": true,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "PLANT" : 3,
+          "FUNGI": 1
+        }
+      ],
+      "imageFront": "carte_fronte/054.png",
+      "imageBack": "carte_retro/054.png"
+    },
+    {
+      "id" : 55,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "NOCORNER",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 2,
+      "coveredCorners": true,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "PLANT" : 3,
+          "ANIMAL": 1
+        }
+      ],
+      "imageFront": "carte_fronte/055.png",
+      "imageBack": "carte_retro/055.png"
+    },
+    {
+      "id" : 56,
+      "fCorner1": "EMPTY",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "EMPTY",
+      "fCorner4": "EMPTY",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 2,
+      "coveredCorners": true,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "PLANT" : 3,
+          "FUNGI": 1
+        }
+      ],
+      "imageFront": "carte_fronte/056.png",
+      "imageBack": "carte_retro/056.png"
+    },
+    {
+      "id" : 57,
+      "fCorner1": "EMPTY",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "QUILL",
+      "fCorner4": "NOCORNER",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 3,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "PLANT" : 3
+        }
+      ],
+      "imageFront": "carte_fronte/057.png",
+      "imageBack": "carte_retro/057.png"
+    },
+    {
+      "id" : 58,
+      "fCorner1": "MANUSCRIPT",
+      "fCorner2": "EMPTY",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "NOCORNER",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 3,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "PLANT" : 3
+        }
+      ],
+      "imageFront": "carte_fronte/058.png",
+      "imageBack": "carte_retro/058.png"
+    },
+    {
+      "id" : 59,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "INKWELL",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "EMPTY",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 3,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "PLANT" : 3
+        }
+      ],
+      "imageFront": "carte_fronte/059.png",
+      "imageBack": "carte_retro/059.png"
+    },
+    {
+      "id" : 60,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "NOCORNER",
+      "color": "GREEN",
+      "centralSymbols": ["PLANT"],
+      "points": 5,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "PLANT" : 5
+        }
+      ],
+      "imageFront": "carte_fronte/060.png",
+      "imageBack": "carte_retro/060.png"
+    },
+    {
+      "id" : 61,
+      "fCorner1": "INKWELL",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "NOCORNER",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 1,
+      "coveredCorners": false,
+      "pointSymbol": "INKWELL",
+      "requirements" : [
+        {
+          "ANIMAL" : 2,
+          "INSECT": 1
+        }
+      ],
+      "imageFront": "carte_fronte/061.png",
+      "imageBack": "carte_retro/061.png"
+    },
+    {
+      "id" : 62,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "MANUSCRIPT",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 1,
+      "coveredCorners": false,
+      "pointSymbol": "MANUSCRIPT",
+      "requirements" : [
+        {
+          "ANIMAL" : 2,
+          "PLANT": 1
+        }
+      ],
+      "imageFront": "carte_fronte/062.png",
+      "imageBack": "carte_retro/062.png"
+    },
+    {
+      "id" : 63,
+      "fCorner1": "EMPTY",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "QUILL",
+      "fCorner4": "EMPTY",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 1,
+      "coveredCorners": false,
+      "pointSymbol": "QUILL",
+      "requirements" : [
+        {
+          "ANIMAL" : 2,
+          "FUNGI": 1
+        }
+      ],
+      "imageFront": "carte_fronte/063.png",
+      "imageBack": "carte_retro/063.png"
+    },
+    {
+      "id" : 64,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "EMPTY",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 2,
+      "coveredCorners": true,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "ANIMAL" : 3,
+          "FUNGI": 1
+        }
+      ],
+      "imageFront": "carte_fronte/064.png",
+      "imageBack": "carte_retro/064.png"
+    },
+    {
+      "id" : 65,
+      "fCorner1": "EMPTY",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "EMPTY",
+      "fCorner4": "EMPTY",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 2,
+      "coveredCorners": true,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "ANIMAL" : 3,
+          "FUNGI": 1
+        }
+      ],
+      "imageFront": "carte_fronte/065.png",
+      "imageBack": "carte_retro/065.png"
+    },
+    {
+      "id" : 66,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "EMPTY",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 2,
+      "coveredCorners": true,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "ANIMAL" : 3,
+          "PLANT": 1
+        }
+      ],
+      "imageFront": "carte_fronte/066.png",
+      "imageBack": "carte_retro/066.png"
+    },
+    {
+      "id" : 67,
+      "fCorner1": "EMPTY",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "MANUSCRIPT",
+      "fCorner4": "NOCORNER",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 3,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "ANIMAL" : 3
+        }
+      ],
+      "imageFront": "carte_fronte/067.png",
+      "imageBack": "carte_retro/067.png"
+    },
+    {
+      "id" : 68,
+      "fCorner1": "EMPTY",
+      "fCorner2": "INKWELL",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "NOCORNER",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 3,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "ANIMAL" : 3
+        }
+      ],
+      "imageFront": "carte_fronte/068.png",
+      "imageBack": "carte_retro/068.png"
+    },
+    {
+      "id" : 69,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "EMPTY",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "QUILL",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 3,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "ANIMAL" : 3
+        }
+      ],
+      "imageFront": "carte_fronte/069.png",
+      "imageBack": "carte_retro/069.png"
+    },
+    {
+      "id" : 70,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "EMPTY",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "EMPTY",
+      "color": "BLUE",
+      "centralSymbols": ["ANIMAL"],
+      "points": 5,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "ANIMAL" : 5
+        }
+      ],
+      "imageFront": "carte_fronte/070.png",
+      "imageBack": "carte_retro/070.png"
+    },
+    {
+      "id" : 71,
+      "fCorner1": "EMPTY",
+      "fCorner2": "QUILL",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "EMPTY",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 1,
+      "coveredCorners": false,
+      "pointSymbol": "QUILL",
+      "requirements" : [
+        {
+          "INSECT" : 2,
+          "PLANT": 1
+        }
+      ],
+      "imageFront": "carte_fronte/071.png",
+      "imageBack": "carte_retro/071.png"
+    },
+    {
+      "id" : 72,
+      "fCorner1": "EMPTY",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "MANUSCRIPT",
+      "fCorner4": "EMPTY",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 1,
+      "coveredCorners": false,
+      "pointSymbol": "MANUSCRIPT",
+      "requirements" : [
+        {
+          "INSECT" : 2,
+          "ANIMAL": 1
+        }
+      ],
+      "imageFront": "carte_fronte/072.png",
+      "imageBack": "carte_retro/072.png"
+    },
+    {
+      "id" : 73,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "INKWELL",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 1,
+      "coveredCorners": false,
+      "pointSymbol": "INKWELL",
+      "requirements" : [
+        {
+          "INSECT" : 2,
+          "FUNGI": 1
+        }
+      ],
+      "imageFront": "carte_fronte/073.png",
+      "imageBack": "carte_retro/073.png"
+    },
+    {
+      "id" : 74,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "EMPTY",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 2,
+      "coveredCorners": true,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "INSECT" : 3,
+          "ANIMAL": 1
+        }
+      ],
+      "imageFront": "carte_fronte/074.png",
+      "imageBack": "carte_retro/074.png"
+    },
+    {
+      "id" : 75,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "NOCORNER",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 2,
+      "coveredCorners": true,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "INSECT" : 3,
+          "PLANT": 1
+        }
+      ],
+      "imageFront": "carte_fronte/075.png",
+      "imageBack": "carte_retro/075.png"
+    },
+    {
+      "id" : 76,
+      "fCorner1": "EMPTY",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "EMPTY",
+      "fCorner4": "EMPTY",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 2,
+      "coveredCorners": true,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "INSECT" : 3,
+          "FUNGI": 1
+        }
+      ],
+      "imageFront": "carte_fronte/076.png",
+      "imageBack": "carte_retro/076.png"
+    },
+    {
+      "id" : 77,
+      "fCorner1": "INKWELL",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "EMPTY",
+      "fCorner4": "NOCORNER",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 3,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "INSECT" : 3
+        }
+      ],
+      "imageFront": "carte_fronte/077.png",
+      "imageBack": "carte_retro/077.png"
+    },
+    {
+      "id" : 78,
+      "fCorner1": "EMPTY",
+      "fCorner2": "MANUSCRIPT",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "NOCORNER",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 3,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "INSECT" : 3
+        }
+      ],
+      "imageFront": "carte_fronte/078.png",
+      "imageBack": "carte_retro/078.png"
+    },
+    {
+      "id" : 79,
+      "fCorner1": "NOCORNER",
+      "fCorner2": "NOCORNER",
+      "fCorner3": "QUILL",
+      "fCorner4": "EMPTY",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 3,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "INSECT" : 3
+        }
+      ],
+      "imageFront": "carte_fronte/079.png",
+      "imageBack": "carte_retro/079.png"
+    },
+    {
+      "id" : 80,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "NOCORNER",
+      "color": "PURPLE",
+      "centralSymbols": ["INSECT"],
+      "points": 5,
+      "coveredCorners": false,
+      "pointSymbol": "EMPTY",
+      "requirements" : [
+        {
+          "INSECT" : 5
+        }
+      ],
+      "imageFront": "carte_fronte/080.png",
+      "imageBack": "carte_retro/080.png"
+    }
+  ],
+
+
+
+  "StarterCard": [
+    {
+      "id" : 81,
+      "fCorner1": "EMPTY",
+      "fCorner2": "PLANT",
+      "fCorner3": "INSECT",
+      "fCorner4": "EMPTY",
+      "centralSymbols": [
+        "INSECT"
+      ],
+      "bCorner1": "FUNGI",
+      "bCorner2": "PLANT",
+      "bCorner3": "INSECT",
+      "bCorner4": "ANIMAL",
+      "imageFront": "carte_fronte/081.png",
+      "imageBack": "carte_retro/081.png"
+    },
+    {
+      "id" : 82,
+      "fCorner1": "ANIMAL",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "FUNGI",
+      "centralSymbols": ["FUNGI"],
+      "bCorner1": "PLANT",
+      "bCorner2": "ANIMAL",
+      "bCorner3": "FUNGI",
+      "bCorner4": "INSECT",
+      "imageFront": "carte_fronte/082.png",
+      "imageBack": "carte_retro/082.png"
+    },
+    {
+      "id" : 83,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "EMPTY",
+      "centralSymbols": ["PLANT", "FUNGI"],
+      "bCorner1": "INSECT",
+      "bCorner2": "ANIMAL",
+      "bCorner3": "FUNGI",
+      "bCorner4": "PLANT",
+      "imageFront": "carte_fronte/083.png",
+      "imageBack": "carte_retro/083.png"
+    },
+    {
+      "id" : 84,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "EMPTY",
+      "fCorner4": "EMPTY",
+      "centralSymbols": ["ANIMAL", "INSECT"],
+      "bCorner1": "PLANT",
+      "bCorner2": "INSECT",
+      "bCorner3": "ANIMAL",
+      "bCorner4": "FUNGI",
+      "imageFront": "carte_fronte/084.png",
+      "imageBack": "carte_retro/084.png"
+    },
+    {
+      "id" : 85,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "NOCORNER",
+      "centralSymbols": ["ANIMAL", "INSECT", "PLANT"],
+      "bCorner1": "INSECT",
+      "bCorner2": "FUNGI",
+      "bCorner3": "PLANT",
+      "bCorner4": "ANIMAL",
+      "imageFront": "carte_fronte/085.png",
+      "imageBack": "carte_retro/085.png"
+    },
+    {
+      "id" : 86,
+      "fCorner1": "EMPTY",
+      "fCorner2": "EMPTY",
+      "fCorner3": "NOCORNER",
+      "fCorner4": "NOCORNER",
+      "centralSymbols": ["PLANT", "ANIMAL", "FUNGI"],
+      "bCorner1": "FUNGI",
+      "bCorner2": "ANIMAL",
+      "bCorner3": "PLANT",
+      "bCorner4": "INSECT",
+      "imageFront": "carte_fronte/086.png",
+      "imageBack": "carte_retro/086.png"
+    }
+  ],
+
+
+
+
+  "ObjectiveCard": [
+    {
+      "id": 87,
+      "type": "ObCardPosition",
+      "points": 2,
+      "colors": ["RED", "RED", "RED"],
+      "positions": [2, 1, 0],
+      "imageFront": "carte_fronte/087.png",
+      "imageBack": "carte_retro/087.png"
+    },
+    {
+      "id": 88,
+      "type": "ObCardPosition",
+      "points": 2,
+      "colors": ["GREEN", "GREEN", "GREEN"],
+      "positions": [0, 1, 2],
+      "imageFront": "carte_fronte/088.png",
+      "imageBack": "carte_retro/088.png"
+    },
+    {
+      "id": 89,
+      "type": "ObCardPosition",
+      "points": 2,
+      "colors": ["BLUE", "BLUE", "BLUE"],
+      "positions": [2, 1, 0],
+      "imageFront": "carte_fronte/089.png",
+      "imageBack": "carte_retro/089.png"
+    },
+    {
+      "id": 90,
+      "type": "ObCardPosition",
+      "points": 2,
+      "colors": ["PURPLE", "PURPLE", "PURPLE"],
+      "positions": [0, 1, 2],
+      "imageFront": "carte_fronte/090.png",
+      "imageBack": "carte_retro/090.png"
+    },
+    {
+      "id": 91,
+      "type": "ObCardPosition",
+      "points": 3,
+      "colors": ["RED", "RED", "GREEN"],
+      "positions": [0, 0, 1],
+      "imageFront": "carte_fronte/091.png",
+      "imageBack": "carte_retro/091.png"
+    },
+    {
+      "id": 92,
+      "type": "ObCardPosition",
+      "points": 3,
+      "colors": ["GREEN", "GREEN", "PURPLE"],
+      "positions": [1, 1, 0],
+      "imageFront": "carte_fronte/092.png",
+      "imageBack": "carte_retro/092.png"
+    },
+    {
+      "id": 93,
+      "type": "ObCardPosition",
+      "points": 3,
+      "colors": ["RED", "BLUE", "BLUE"],
+      "positions": [1, 0, 0],
+      "imageFront": "carte_fronte/093.png",
+      "imageBack": "carte_retro/093.png"
+    },
+    {
+      "id": 94,
+      "type": "ObCardPosition",
+      "points": 3,
+      "colors": ["BLUE", "PURPLE", "PURPLE"],
+      "positions": [0, 1, 1],
+      "imageFront": "carte_fronte/094.png",
+      "imageBack": "carte_retro/094.png"
+    },
+    {
+      "id": 95,
+      "type": "ObCardSymbols",
+      "points": 2,
+      "symbols": ["FUNGI", "FUNGI", "FUNGI"],
+      "imageFront": "carte_fronte/095.png",
+      "imageBack": "carte_retro/095.png"
+    },
+    {
+      "id": 96,
+      "type": "ObCardSymbols",
+      "points": 2,
+      "symbols": ["PLANT", "PLANT", "PLANT"],
+      "imageFront": "carte_fronte/096.png",
+      "imageBack": "carte_retro/096.png"
+    },
+    {
+      "id": 97,
+      "type": "ObCardSymbols",
+      "points": 2,
+      "symbols": ["ANIMAL", "ANIMAL", "ANIMAL"],
+      "imageFront": "carte_fronte/097.png",
+      "imageBack": "carte_retro/097.png"
+    },
+    {
+      "id": 98,
+      "type": "ObCardSymbols",
+      "points": 2,
+      "symbols": ["INSECT", "INSECT", "INSECT"],
+      "imageFront": "carte_fronte/098.png",
+      "imageBack": "carte_retro/098.png"
+    },
+    {
+      "id": 99,
+      "type": "ObCardSymbols",
+      "points": 3,
+      "symbols": ["QUILL", "INKWELL", "MANUSCRIPT"],
+      "imageFront": "carte_fronte/099.png",
+      "imageBack": "carte_retro/099.png"
+    },
+    {
+      "id": 100,
+      "type": "ObCardSymbols",
+      "points": 2,
+      "symbols": ["MANUSCRIPT", "MANUSCRIPT"],
+      "imageFront": "carte_fronte/100.png",
+      "imageBack": "carte_retro/100.png"
+    },
+    {
+      "id": 101,
+      "type": "ObCardSymbols",
+      "points": 2,
+      "symbols": ["INKWELL", "INKWELL"],
+      "imageFront": "carte_fronte/101.png",
+      "imageBack": "carte_retro/101.png"
+    },
+    {
+      "id": 102,
+      "type": "ObCardSymbols",
+      "points": 2,
+      "symbols": ["QUILL", "QUILL"],
+      "imageFront": "carte_fronte/102.png",
+      "imageBack": "carte_retro/102.png"
+    }
+  ]
+}
